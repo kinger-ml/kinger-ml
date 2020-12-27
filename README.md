@@ -1,4 +1,13 @@
-### Hi there 👋
+# [![Krishna Kinger](https://github.com/kinger-ml/kinger-ml/blob/main/imgs/banner.gif?raw=true)](https://github.com/kinger-ml)
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=kinger-ml alt=kinger-ml/></p>
+<p align='left'>
+<a href="https://www.linkedin.com/in/krishnakinger/"><img height="30" src="https://github.com/kinger-ml/kinger-ml/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://scholar.google.com/citations?user=Msjgu3cAAAAJ&hl=en"><img height="30" src="https://github.com/kinger-ml/kinger-ml/blob/main/icon/google_scholar.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.researchgate.net/profile/Krishna_Kinger"><img height="30" src="https://github.com/kinger-ml/kinger-ml/blob/main/icon/researchgate.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/krishh28"><img height="30" src="https://github.com/kinger-ml/kinger-ml/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+
+</p>
 
 <!--
 **kinger-ml/kinger-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
